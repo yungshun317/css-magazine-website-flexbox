@@ -176,7 +176,7 @@ img {
     height: auto;
 }
 
-/* Floats */
+/* Floats
 .author-img {
     float: left;
     margin-bottom: 20px;
@@ -214,4 +214,12 @@ aside {
 
 footer {
     clear: both;
+}
+
+ */
+
+.main-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
