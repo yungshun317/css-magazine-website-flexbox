@@ -223,3 +223,14 @@ footer {
     align-items: center;
     justify-content: space-between;
 }
+
+.author-box {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.author {
+    margin-top: 10px;
+    margin-left: 20px;
+}
